@@ -102,4 +102,4 @@
 - <https://mullvad.net/> (paid, accepts cash and crypto)
 - <https://psiphon3.com/>
 - <https://getlantern.org/>
-- <https://vpngate.net/en/>
+- <https://vpngate.net/>
