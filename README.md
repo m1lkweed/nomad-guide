@@ -1,5 +1,5 @@
 # **Nomad Guide**
-**No-registration chat**
+### **No-registration chat**
 - <https://hack.chat/>
 - <https://discord.com/> (some servers require registration)
 - <https://4chan.org/>
@@ -9,7 +9,7 @@
 - <https://ziggs.io/>
 - <https://leggochat.github.io/>
 
-**No-registration anonymous file-sending and storage**
+### **No-registration anonymous file-sending and storage**
 - <https://wetransfer.com/>
 - <https://transfernow.net/>
 - <https://filedropper.com/>
@@ -35,7 +35,7 @@
 - <https://upload.disroot.org/>
 - <https://wupfile.com/>
 
-**No-registration anonymous textdumps**
+### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
 - <https://paste.gg/>
 - <https://hastebin.com/>
@@ -63,14 +63,14 @@
 - <https://justpaste.it/>
 - <https://demo.hedgedoc.org/>
 
-**No-registration anonymous codedumps/ides**
+### **No-registration anonymous codedumps/ides**
 - <https://feditor.surge.sh/>
 - <https://codepen.io/>
 - <https://tio.run/>
 - <https://godbolt.org/>
 - <https://ideone.com/>
 
-**No-registration throwaway e-mails**
+### **No-registration throwaway e-mails**
 - <https://fakemail.net/>
 - <https://guerrillamail.com/>
 - <https://mohmal.com/>
@@ -93,7 +93,7 @@
 - <https://smailpro.com/>
 - <https://www.minuteinbox.com/>
 
-**No-registration throwaway phone numbers (receive-only)**
+### **No-registration throwaway phone numbers (receive-only)**
 - <https://smsreceivefree.com/>
 - <https://temp-sms.org/>
 - <https://freephonenum.com/>
@@ -105,8 +105,11 @@
 - <https://temporary-phone-number.com/>
 - <https://mytempsms.com/>
 
-**No-registration VPNs**
+### **No-registration VPNs**
 - <https://mullvad.net/> (paid, accepts cash and crypto)
 - <https://psiphon3.com/>
 - <https://getlantern.org/>
 - <https://vpngate.net/>
+
+## License
+[![GDFL](https://upload.wikimedia.org/wikipedia/commons/4/42/GFDL_Logo.svg)](https://www.gnu.org/licenses/fdl-1.3-standalone.html)
