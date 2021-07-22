@@ -61,6 +61,7 @@
 - <https://paste.sh/>
 - <https://paste.ee/>
 - <https://justpaste.it/>
+- <https://demo.hedgedoc.org/>
 
 **No-registration anonymous codedumps/ides**
 - <https://feditor.surge.sh/>
