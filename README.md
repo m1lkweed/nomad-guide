@@ -33,7 +33,7 @@
 - <https://drop.infini.fr/>
 - <https://drop.chapril.org/>
 - <https://upload.disroot.org/>
-- 
+
 **No-registration anonymous textdumps**
 - <https://pastebin.com/>
 - <https://paste.gg/>
