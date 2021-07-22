@@ -85,6 +85,10 @@
 - <https://20minutemail.com/>
 - <https://adhoc-email.com/>
 - <https://crazymailing.com/>
+- <https://tempmail.altmails.com/>
+- <https://www.moakt.com/>
+- <https://smailpro.com/>
+- <https://www.minuteinbox.com/>
 
 **No-registration throwaway phone numbers (receive-only)**
 - <https://smsreceivefree.com/>
