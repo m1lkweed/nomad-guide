@@ -33,6 +33,7 @@
 - <https://drop.infini.fr/>
 - <https://drop.chapril.org/>
 - <https://upload.disroot.org/>
+- <https://wupfile.com/>
 
 **No-registration anonymous textdumps**
 - <https://pastebin.com/>
@@ -59,6 +60,7 @@
 - <https://commie.io/>
 - <https://paste.sh/>
 - <https://paste.ee/>
+- <https://justpaste.it/>
 
 **No-registration anonymous codedumps/ides**
 - <https://feditor.surge.sh/>
