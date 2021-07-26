@@ -104,6 +104,7 @@
 - <https://temp-phone-number.com/>
 - <https://temporary-phone-number.com/>
 - <https://mytempsms.com/>
+- <https://receive-sms.cc/>
 
 ### **No-registration VPNs**
 - <https://mullvad.net/> (paid, accepts cash and crypto)
