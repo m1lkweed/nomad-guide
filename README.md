@@ -24,7 +24,6 @@
 - <https://mediafire.com/>
 - <https://jumbomail.me/>
 - <https://sendspace.com/>
-- <https://sendfiles.net/>
 - <https://justbeamit.com/>
 - <https://filesharing24.com/>
 - <https://send-anywhere.com/>
