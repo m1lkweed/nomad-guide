@@ -33,6 +33,7 @@
 - <https://drop.chapril.org/>
 - <https://upload.disroot.org/>
 - <https://wupfile.com/>
+- <https://wormhole.app/>
 
 ### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
