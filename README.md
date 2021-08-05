@@ -106,6 +106,11 @@
 - <https://mytempsms.com/>
 - <https://receive-sms.cc/>
 
+### **No-registration throwaway phone numbers (send-only)**
+- <https://numlookup.com/>
+- <https://www.foxtext.com/>
+- <https://www.sendatext.co/>
+
 ### **No-registration VPNs**
 - <https://mullvad.net/> (paid, accepts cash and crypto)
 - <https://psiphon3.com/>
