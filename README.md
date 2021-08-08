@@ -34,6 +34,7 @@
 - <https://upload.disroot.org/>
 - <https://wupfile.com/>
 - <https://wormhole.app/>
+- <https://tmp.ninja/>
 
 ### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
