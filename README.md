@@ -63,6 +63,7 @@
 - <https://paste.ee/>
 - <https://justpaste.it/>
 - <https://demo.hedgedoc.org/>
+- <https://pastext.org/>
 
 ### **No-registration anonymous codedumps/ides**
 - <https://feditor.surge.sh/>
