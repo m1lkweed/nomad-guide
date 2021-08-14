@@ -42,6 +42,11 @@
 - <https://4shared.com/>
 - <https://filespace.com/>
 - <http://filestore.to/>
+- <https://modsbase.com/>
+- <https://userscloud.com/>
+- <https://anonfiles.com/>
+- <https://uptobox.com/>
+- <https://bayfiles.com/>
 
 ### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
