@@ -106,6 +106,7 @@
 - <https://www.moakt.com/>
 - <https://smailpro.com/>
 - <https://www.minuteinbox.com/>
+- <https://jooko.info/>
 
 ### **No-registration throwaway phone numbers (receive-only)**
 - <https://smsreceivefree.com/>
