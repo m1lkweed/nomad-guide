@@ -123,8 +123,8 @@
 
 ### **No-registration throwaway phone numbers (send-only)**
 - <https://numlookup.com/>
-- <https://www.foxtext.com/>
-- <https://www.sendatext.co/>
+- <https://foxtext.com/>
+- <https://sendatext.co/>
 - <https://textport.com/>
 
 ### **No-registration VPNs**
@@ -132,6 +132,14 @@
 - <https://psiphon3.com/>
 - <https://getlantern.org/>
 - <https://vpngate.net/>
+
+
+### **No-registration cryptocurrency exchanges**
+- <https://godex.io/>
+- <https://changehero.io/> (Accepts USD)
+- <https://flyp.me/>
+- <https://changenow.io/> (Accepts USD)
+- <https://simpleswap.io/> (Accepts USD)
 
 ## License
 [![GDFL](https://upload.wikimedia.org/wikipedia/commons/4/42/GFDL_Logo.svg)](https://www.gnu.org/licenses/fdl-1.3-standalone.html)
