@@ -47,6 +47,7 @@
 - <https://anonfiles.com/>
 - <https://uptobox.com/>
 - <https://bayfiles.com/>
+- <https://share.riseup.net/>
 
 ### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
@@ -76,6 +77,7 @@
 - <https://justpaste.it/>
 - <https://demo.hedgedoc.org/>
 - <https://pastext.org/>
+- <https://pad.riseup.net/>
 
 ### **No-registration anonymous codedumps/ides**
 - <https://feditor.surge.sh/>
