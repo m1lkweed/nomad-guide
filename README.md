@@ -142,6 +142,10 @@
 - <https://flyp.me/>
 - <https://changenow.io/> (Accepts USD)
 - <https://simpleswap.io/> (Accepts USD)
+- <https://bitni.com/> (Accepts USD)
+- <https://sideshift.ai/>
+- <https://xchange.me/>
+- <https://www.morphtoken.com/>
 
 ## License
 [![GDFL](https://upload.wikimedia.org/wikipedia/commons/4/42/GFDL_Logo.svg)](https://www.gnu.org/licenses/fdl-1.3-standalone.html)
