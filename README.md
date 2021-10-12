@@ -19,7 +19,7 @@
 - <https://transfer.sh/>
 - <https://file.io/>
 - <https://filemail.com/>
-- <https://www.sharedrop.io/>
+- <https://sharedrop.io/>
 - <https://jirafeau.net/>
 - <https://mediafire.com/>
 - <https://jumbomail.me/>
@@ -76,7 +76,7 @@
 - <https://paste.sh/>
 - <https://paste.ee/>
 - <https://justpaste.it/>
-- <https://demo.hedgedoc.org/>
+- <https://hedgedoc.org/>
 - <https://pastext.org/>
 - <https://pad.riseup.net/>
 
@@ -86,6 +86,10 @@
 - <https://tio.run/>
 - <https://godbolt.org/>
 - <https://ideone.com/>
+- <https://online-ide.com/>
+- <https://browxy.com/>
+- <https://codesandbox.io/>
+- <https://mycompiler.io/>
 
 ### **No-registration throwaway e-mails**
 - <https://fakemail.net/>
@@ -106,9 +110,9 @@
 - <https://adhoc-email.com/>
 - <https://crazymailing.com/>
 - <https://tempmail.altmails.com/>
-- <https://www.moakt.com/>
+- <https://moakt.com/>
 - <https://smailpro.com/>
-- <https://www.minuteinbox.com/>
+- <https://minuteinbox.com/>
 - <https://jooko.info/>
 
 ### **No-registration throwaway phone numbers (receive-only)**
@@ -146,7 +150,7 @@
 - <https://bitni.com/> (Accepts USD)
 - <https://sideshift.ai/>
 - <https://xchange.me/>
-- <https://www.morphtoken.com/>
+- <https://morphtoken.com/>
 
 ## License
 [![GDFL](https://upload.wikimedia.org/wikipedia/commons/4/42/GFDL_Logo.svg)](https://www.gnu.org/licenses/fdl-1.3-standalone.html)
