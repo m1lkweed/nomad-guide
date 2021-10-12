@@ -48,6 +48,7 @@
 - <https://uptobox.com/>
 - <https://bayfiles.com/>
 - <https://share.riseup.net/>
+- <https://gofile.io/>
 
 ### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
