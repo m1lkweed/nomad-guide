@@ -139,6 +139,7 @@
 - <https://psiphon3.com/>
 - <https://getlantern.org/>
 - <https://vpngate.net/>
+- <https://betternet.co/>
 
 
 ### **No-registration cryptocurrency exchanges**
