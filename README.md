@@ -152,6 +152,7 @@
 - <https://sideshift.ai/>
 - <https://xchange.me/>
 - <https://morphtoken.com/>
+- <https://www.bitrefill.com/> (crypto to giftcards)
 
 ## License
 [![GDFL](https://upload.wikimedia.org/wikipedia/commons/4/42/GFDL_Logo.svg)](https://www.gnu.org/licenses/fdl-1.3-standalone.html)
