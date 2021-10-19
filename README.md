@@ -49,6 +49,7 @@
 - <https://bayfiles.com/>
 - <https://share.riseup.net/>
 - <https://gofile.io/>
+- <https://instant.io/>
 
 ### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
