@@ -50,6 +50,7 @@
 - <https://share.riseup.net/>
 - <https://gofile.io/>
 - <https://instant.io/>
+- <https://pixeldrain.com/>
 
 ### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
