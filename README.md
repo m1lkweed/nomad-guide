@@ -5,7 +5,7 @@
 - <https://4chan.org/>
 - <https://8kun.top/>
 - <https://lainchan.org/>
-- <https://allchans.org/>
+- <https://allchans.org/>  (list)
 - <https://ziggs.io/>
 - <https://leggochat.github.io/>
 
@@ -51,6 +51,8 @@
 - <https://gofile.io/>
 - <https://instant.io/>
 - <https://pixeldrain.com/>
+- <https://share.anoxinon.de/>
+- <https://nowtransfer.de/>
 
 ### **No-registration anonymous textdumps**
 - <https://pastebin.com/>
@@ -62,7 +64,7 @@
 - <https://walloftext.co/>
 - <https://pastelink.net/>
 - <https://write.as/>
-- <https://privatebin.info/>
+- <https://privatebin.info/directory/> (list)
 - <https://0bin.net/>
 - <https://termbin.com/>
 - <https://zerobin.net/>
@@ -81,6 +83,9 @@
 - <https://hedgedoc.org/>
 - <https://pastext.org/>
 - <https://pad.riseup.net/>
+- <https://anonpaste.org/>
+- <https://publicnote.com/>
+- <https://www.verybin.com/>
 
 ### **No-registration anonymous codedumps/ides**
 - <https://feditor.surge.sh/>
