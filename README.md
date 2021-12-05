@@ -86,6 +86,7 @@
 - <https://anonpaste.org/>
 - <https://publicnote.com/>
 - <https://www.verybin.com/>
+- <https://scrt.link/>
 
 ### **No-registration anonymous codedumps/ides**
 - <https://feditor.surge.sh/>
