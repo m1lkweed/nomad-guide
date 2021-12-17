@@ -38,7 +38,6 @@
 - <https://1fichier.com/>
 - <https://hitfile.net/>
 - <https://turbobit.net/>
-- <https://tusfiles.com/>
 - <https://4shared.com/>
 - <https://filespace.com/>
 - <http://filestore.to/>
