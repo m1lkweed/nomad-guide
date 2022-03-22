@@ -120,7 +120,6 @@
 - <https://moakt.com/>
 - <https://smailpro.com/>
 - <https://minuteinbox.com/>
-- <https://jooko.info/>
 
 ### **No-registration throwaway phone numbers (receive-only)**
 - <https://smsreceivefree.com/>
