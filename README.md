@@ -97,6 +97,7 @@
 - <https://browxy.com/>
 - <https://codesandbox.io/>
 - <https://mycompiler.io/>
+- <http://codepad.org/>
 
 ### **No-registration throwaway e-mails**
 - <https://fakemail.net/>
