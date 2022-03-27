@@ -147,6 +147,7 @@
 - <https://getlantern.org/>
 - <https://vpngate.net/>
 - <https://betternet.co/>
+- <https://dongtaiwang.com/home_en.php>
 
 
 ### **No-registration cryptocurrency exchanges**
