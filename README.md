@@ -142,6 +142,7 @@
 - <https://textport.com/>
 
 ### **No-registration VPNs**
+- <https://blazevpn.xyz/>
 - <https://mullvad.net/> (paid, accepts cash and crypto)
 - <https://psiphon3.com/>
 - <https://getlantern.org/>
