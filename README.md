@@ -34,7 +34,6 @@
 - <https://upload.disroot.org/>
 - <https://wupfile.com/>
 - <https://wormhole.app/>
-- <https://tmp.ninja/>
 - <https://1fichier.com/>
 - <https://hitfile.net/>
 - <https://turbobit.net/>
