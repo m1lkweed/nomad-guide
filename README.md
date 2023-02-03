@@ -119,7 +119,6 @@
 - <https://crazymailing.com/>
 - <https://tempmail.altmails.com/>
 - <https://moakt.com/>
-- <https://smailpro.com/>
 - <https://minuteinbox.com/>
 
 ### **No-registration throwaway phone numbers (receive-only)**
