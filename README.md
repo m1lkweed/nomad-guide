@@ -12,8 +12,6 @@
 ### **No-registration anonymous file-sending and storage**
 - <https://wetransfer.com/>
 - <https://transfernow.net/>
-- <https://filedropper.com/>
-- <https://zippyshare.com/>
 - <https://easyupload.io/>
 - <https://ufile.io/>
 - <https://transfer.sh/>
