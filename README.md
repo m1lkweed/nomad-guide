@@ -120,7 +120,6 @@
 - <https://minuteinbox.com/>
 
 ### **No-registration throwaway phone numbers (receive-only)**
-- <https://smsreceivefree.com/>
 - <https://temp-sms.org/>
 - <https://freephonenum.com/>
 - <https://receive-smss.com/>
