@@ -152,7 +152,6 @@
 - <https://flyp.me/>
 - <https://changenow.io/> (Accepts USD)
 - <https://simpleswap.io/> (Accepts USD)
-- <https://bitni.com/> (Accepts USD)
 - <https://sideshift.ai/>
 - <https://xchange.me/>
 - <https://morphtoken.com/>
