@@ -129,6 +129,7 @@
 - <https://temporary-phone-number.com/>
 - <https://mytempsms.com/>
 - <https://receive-sms.cc/>
+- <https://temp-numbers.net/>
 
 ### **No-registration throwaway phone numbers (send-only)**
 - <https://numlookup.com/>
